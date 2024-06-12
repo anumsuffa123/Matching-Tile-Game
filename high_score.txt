@@ -1,0 +1,3 @@
+Player: Anum
+Moves: 10
+Matches: 3
